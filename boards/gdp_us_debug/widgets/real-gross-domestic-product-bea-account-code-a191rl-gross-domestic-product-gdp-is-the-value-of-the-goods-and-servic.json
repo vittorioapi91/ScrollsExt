@@ -1,0 +1,86 @@
+{
+  "id": "67a085cc-f4f9-4b1e-9c4a-827b09b57835-chart-0",
+  "type": "chart",
+  "docked": false,
+  "chromePinned": false,
+  "presentation": "expanded",
+  "layout": {
+    "x": 0,
+    "y": 0,
+    "w": 2,
+    "h": 2
+  },
+  "object": {
+    "kind": "chart",
+    "schemaVersion": 1,
+    "title": "Real Gross Domestic Product\n\nBEA Account Code: A191RL\n\nGross domestic product (GDP) is the value of the goods and servic",
+    "notes": "",
+    "startDate": "2010-01-01",
+    "endDate": "2022-12-31",
+    "series": [
+      {
+        "seriesKey": "fred:A191RL1Q225SBEA",
+        "instrument": {
+          "kind": "series",
+          "source": "fred",
+          "seriesId": "A191RL1Q225SBEA",
+          "label": "Real Gross Domestic Product\n\nBEA Account Code: A191RL\n\nGross domestic product (GDP) is the value of the goods and servic"
+        },
+        "label": "Real Gross Domestic Product\n\nBEA Account Code: A191RL\n\nGross domestic product (GDP) is the value of the goods and servic",
+        "transforms": [
+          {
+            "id": "tx-mwod2p9u-1",
+            "mode": "level",
+            "days": 1,
+            "lag": 0,
+            "axis": "right",
+            "color": "#c4a574",
+            "dash": "solid"
+          }
+        ]
+      },
+      {
+        "seriesKey": "fred:AKNMPIRPD",
+        "instrument": {
+          "kind": "series",
+          "source": "fred",
+          "seriesId": "AKNMPIRPD",
+          "label": "Implicit Regional Price Deflator: Nonmetropolitan Portion for Alaska\n\nThe Implicit Regional Price Deflator (IRPD) is the"
+        },
+        "label": "Implicit Regional Price Deflator: Nonmetropolitan Portion for Alaska\n\nThe Implicit Regional Price Deflator (IRPD) is the",
+        "transforms": [
+          {
+            "id": "tx-mwod2p9u-2",
+            "mode": "level",
+            "days": 1,
+            "lag": 0,
+            "axis": "left",
+            "color": "#6b8cae",
+            "dash": "solid"
+          }
+        ]
+      },
+      {
+        "seriesKey": "fred:A765RC1Q027SBEA",
+        "instrument": {
+          "kind": "series",
+          "source": "fred",
+          "seriesId": "A765RC1Q027SBEA",
+          "label": "Gross value added: GDP: General government\n\nBEA Account Code: A765RC\n\nFor more information about this series, please see"
+        },
+        "label": "Gross value added: GDP: General government\n\nBEA Account Code: A765RC\n\nFor more information about this series, please see",
+        "transforms": [
+          {
+            "id": "tx-mwod2p9u-3",
+            "mode": "level",
+            "days": 1,
+            "lag": 0,
+            "axis": "left",
+            "color": "#7a9e8e",
+            "dash": "solid"
+          }
+        ]
+      }
+    ]
+  }
+}
