@@ -1,0 +1,22 @@
+{
+  "id": "49006a82-bb17-434c-ad7b-e03c51675f5b-chart-0",
+  "type": "chart",
+  "docked": false,
+  "chromePinned": false,
+  "presentation": "expanded",
+  "layout": {
+    "x": 0,
+    "y": 0,
+    "w": 2,
+    "h": 2
+  },
+  "object": {
+    "kind": "chart",
+    "schemaVersion": 1,
+    "title": "Chart",
+    "notes": "",
+    "startDate": "2021-10-03",
+    "endDate": "2026-10-03",
+    "series": []
+  }
+}

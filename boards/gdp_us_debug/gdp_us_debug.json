@@ -1,19 +1,25 @@
 {
   "schemaVersion": 2,
   "id": "376e0d29-5efa-424d-bfb0-6746c3dd2c9f",
-  "title": "gdp",
+  "title": "Workspace",
   "notes": "",
   "revolved": false,
-  "widgetsPerRow": 4,
-  "rows": 4,
+  "widgetsPerRow": 2,
+  "rows": 3,
   "instruments": [],
   "widgets": [],
   "links": [],
-  "updatedAt": "2026-11-17T08:18:21.807Z",
-  "headCommitId": "67293a3d023d3459d21f483d5e0133de325c49bb",
+  "updatedAt": "2026-10-02T23:45:34.670Z",
   "widgetFiles": [
-    "gross-domestic-product.json",
-    "gross-domestic-product-2.json",
-    "gross-domestic-product-2-693af9.json"
-  ]
+    "chart.json"
+  ],
+  "library": {
+    "id": "376e0d29-5efa-424d-bfb0-6746c3dd2c9f",
+    "name": "gdp_us_debug",
+    "handle": "gdp_us_debug",
+    "description": "It's a debug board.",
+    "iconId": "ghost-smug-gold",
+    "createdAt": "2026-11-20T02:29:53.820Z",
+    "updatedAt": "2026-11-20T02:29:53.820Z"
+  }
 }
