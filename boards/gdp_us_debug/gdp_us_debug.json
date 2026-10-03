@@ -9,9 +9,9 @@
   "instruments": [],
   "widgets": [],
   "links": [],
-  "updatedAt": "2026-10-02T23:52:39.761Z",
+  "updatedAt": "2026-10-03T00:21:05.575Z",
   "widgetFiles": [
-    "real-gross-domestic-product-bea-account-code-a191rl-gross-domestic-product-gdp-is-the-value-of-the-goods-and-servic.json"
+    "real-gross-domestic-product.json"
   ],
   "library": {
     "id": "376e0d29-5efa-424d-bfb0-6746c3dd2c9f",
