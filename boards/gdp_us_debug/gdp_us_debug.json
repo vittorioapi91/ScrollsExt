@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "376e0d29-5efa-424d-bfb0-6746c3dd2c9f",
-  "title": "US GDP",
+  "title": "move implicit regional price deflator on left axis of",
   "notes": "",
   "revolved": false,
   "widgetsPerRow": 2,
@@ -9,9 +9,9 @@
   "instruments": [],
   "widgets": [],
   "links": [],
-  "updatedAt": "2026-10-03T03:26:46.034Z",
+  "updatedAt": "2026-10-04T06:51:15.670Z",
   "widgetFiles": [
-    "real-gross-domestic-product.json"
+    "implicit-regional-price-deflator-metropolitan-portion-for-alas.json"
   ],
   "library": {
     "id": "376e0d29-5efa-424d-bfb0-6746c3dd2c9f",

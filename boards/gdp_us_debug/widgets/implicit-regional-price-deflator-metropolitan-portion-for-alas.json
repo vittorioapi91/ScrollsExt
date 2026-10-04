@@ -1,5 +1,5 @@
 {
-  "id": "00897022-211c-461f-91be-54093485974f-chart-0",
+  "id": "88eff12c-4834-4474-98f3-7f889f96cf73-chart-0",
   "type": "chart",
   "docked": false,
   "chromePinned": false,
@@ -13,44 +13,44 @@
   "object": {
     "kind": "chart",
     "schemaVersion": 1,
-    "title": "Real Gross Domestic Product",
+    "title": "Implicit Regional Price Deflator: Metropolitan Portion for Alas…",
     "notes": "",
-    "startDate": "2010-01-01",
-    "endDate": "2022-12-31",
+    "startDate": "2021-10-04",
+    "endDate": "2026-10-04",
     "series": [
       {
-        "seriesKey": "fred:A191RL1Q225SBEA",
+        "seriesKey": "fred:AKMPIRPD",
         "instrument": {
           "kind": "series",
           "source": "fred",
-          "seriesId": "A191RL1Q225SBEA",
-          "label": "Real Gross Domestic Product"
+          "seriesId": "AKMPIRPD",
+          "label": "Implicit Regional Price Deflator: Metropolitan Portion for Alas…"
         },
-        "label": "Real Gross Domestic Product",
+        "label": "Implicit Regional Price Deflator: Metropolitan Portion for Alas…",
         "transforms": [
           {
-            "id": "tx-mwod2phj-7",
+            "id": "tx-mwod2pm3-10",
             "mode": "level",
             "days": 1,
             "lag": 0,
-            "axis": "right",
+            "axis": "left",
             "color": "#c4a574",
             "dash": "solid"
           }
         ]
       },
       {
-        "seriesKey": "fred:AKNMPIRPD",
+        "seriesKey": "fred:AKIRPD",
         "instrument": {
           "kind": "series",
           "source": "fred",
-          "seriesId": "AKNMPIRPD",
-          "label": "Implicit Regional Price Deflator: Nonmetropolitan Portion for A…"
+          "seriesId": "AKIRPD",
+          "label": "Implicit Regional Price Deflator for Alaska"
         },
-        "label": "Implicit Regional Price Deflator: Nonmetropolitan Portion for A…",
+        "label": "Implicit Regional Price Deflator for Alaska",
         "transforms": [
           {
-            "id": "tx-mwod2phj-8",
+            "id": "tx-mwod2pm3-11",
             "mode": "level",
             "days": 1,
             "lag": 0,
@@ -61,17 +61,17 @@
         ]
       },
       {
-        "seriesKey": "fred:A765RC1Q027SBEA",
+        "seriesKey": "fred:ALIRPD",
         "instrument": {
           "kind": "series",
           "source": "fred",
-          "seriesId": "A765RC1Q027SBEA",
-          "label": "Gross value added: GDP: General government"
+          "seriesId": "ALIRPD",
+          "label": "Implicit Regional Price Deflator for Alabama"
         },
-        "label": "Gross value added: GDP: General government",
+        "label": "Implicit Regional Price Deflator for Alabama",
         "transforms": [
           {
-            "id": "tx-mwod2phj-9",
+            "id": "tx-mwod2pm3-12",
             "mode": "level",
             "days": 1,
             "lag": 0,
