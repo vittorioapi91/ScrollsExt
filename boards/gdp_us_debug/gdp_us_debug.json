@@ -1,18 +1,16 @@
 {
   "schemaVersion": 2,
   "id": "376e0d29-5efa-424d-bfb0-6746c3dd2c9f",
-  "title": "move implicit regional price deflator on left axis of",
+  "title": "plot the us gdp from 2010 to 2025",
   "notes": "",
   "revolved": false,
-  "widgetsPerRow": 2,
+  "widgetsPerRow": 4,
   "rows": 3,
   "instruments": [],
   "widgets": [],
   "links": [],
-  "updatedAt": "2026-10-04T06:51:15.670Z",
-  "widgetFiles": [
-    "implicit-regional-price-deflator-metropolitan-portion-for-alas.json"
-  ],
+  "updatedAt": "2026-10-31T01:14:56.052Z",
+  "widgetFiles": [],
   "library": {
     "id": "376e0d29-5efa-424d-bfb0-6746c3dd2c9f",
     "name": "gdp_us_debug",
