@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "376e0d29-5efa-424d-bfb0-6746c3dd2c9f",
-  "title": "us gdp",
+  "title": "gdp",
   "notes": "",
   "revolved": false,
   "widgetsPerRow": 2,
@@ -9,9 +9,9 @@
   "instruments": [],
   "widgets": [],
   "links": [],
-  "updatedAt": "2026-11-14T00:11:44.727Z",
+  "updatedAt": "2026-11-14T00:13:59.515Z",
   "widgetFiles": [
-    "national-accounts-gdp-by-expenditure-constant-prices-gross-d.json"
+    "gross-domestic-product.json"
   ],
   "library": {
     "id": "376e0d29-5efa-424d-bfb0-6746c3dd2c9f",
