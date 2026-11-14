@@ -1,0 +1,86 @@
+{
+  "id": "beea94b8-42ce-49d4-b7c8-dae339354890-chart-0",
+  "type": "chart",
+  "docked": false,
+  "chromePinned": false,
+  "presentation": "expanded",
+  "layout": {
+    "x": 0,
+    "y": 0,
+    "w": 2,
+    "h": 3
+  },
+  "object": {
+    "kind": "chart",
+    "schemaVersion": 1,
+    "title": "National Accounts: GDP by Expenditure: Constant Prices: Gross D…",
+    "notes": "",
+    "startDate": "2010-01-01",
+    "endDate": "2025-12-31",
+    "series": [
+      {
+        "seriesKey": "fred:NAEXKP01USA652S",
+        "instrument": {
+          "kind": "series",
+          "source": "fred",
+          "seriesId": "NAEXKP01USA652S",
+          "label": "National Accounts: GDP by Expenditure: Constant Prices: Gross D…"
+        },
+        "label": "National Accounts: GDP by Expenditure: Constant Prices: Gross D…",
+        "transforms": [
+          {
+            "id": "tx-mwod2q51-13",
+            "mode": "level",
+            "days": 1,
+            "lag": 0,
+            "axis": "left",
+            "color": "#c4a574",
+            "dash": "solid"
+          }
+        ]
+      },
+      {
+        "seriesKey": "fred:USAGDPNADSMEI",
+        "instrument": {
+          "kind": "series",
+          "source": "fred",
+          "seriesId": "USAGDPNADSMEI",
+          "label": "National Accounts: GDP by Expenditure: Current Prices: Gross Do…"
+        },
+        "label": "National Accounts: GDP by Expenditure: Current Prices: Gross Do…",
+        "transforms": [
+          {
+            "id": "tx-mwod2q51-14",
+            "mode": "level",
+            "days": 1,
+            "lag": 0,
+            "axis": "left",
+            "color": "#6b8cae",
+            "dash": "solid"
+          }
+        ]
+      },
+      {
+        "seriesKey": "fred:A006RE1A156NBEA",
+        "instrument": {
+          "kind": "series",
+          "source": "fred",
+          "seriesId": "A006RE1A156NBEA",
+          "label": "Shares of gross domestic product: Gross private domestic invest…"
+        },
+        "label": "Shares of gross domestic product: Gross private domestic invest…",
+        "transforms": [
+          {
+            "id": "tx-mwod2q51-15",
+            "mode": "level",
+            "days": 1,
+            "lag": 0,
+            "axis": "left",
+            "color": "#7a9e8e",
+            "dash": "solid"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,16 +1,18 @@
 {
   "schemaVersion": 2,
   "id": "376e0d29-5efa-424d-bfb0-6746c3dd2c9f",
-  "title": "plot us gdp from 2010 to 2025",
+  "title": "us gdp",
   "notes": "",
   "revolved": false,
-  "widgetsPerRow": 4,
+  "widgetsPerRow": 2,
   "rows": 3,
   "instruments": [],
   "widgets": [],
   "links": [],
-  "updatedAt": "2026-11-14T00:05:46.726Z",
-  "widgetFiles": [],
+  "updatedAt": "2026-11-14T00:09:57.683Z",
+  "widgetFiles": [
+    "national-accounts-gdp-by-expenditure-constant-prices-gross-d.json"
+  ],
   "library": {
     "id": "376e0d29-5efa-424d-bfb0-6746c3dd2c9f",
     "name": "gdp_us_debug",
