@@ -1,17 +1,17 @@
 {
   "schemaVersion": 2,
   "id": "376e0d29-5efa-424d-bfb0-6746c3dd2c9f",
-  "title": "gdp",
+  "title": "GDP",
   "notes": "",
   "revolved": false,
-  "widgetsPerRow": 2,
+  "widgetsPerRow": 4,
   "rows": 3,
   "instruments": [],
   "widgets": [],
   "links": [],
-  "updatedAt": "2026-11-14T00:13:59.515Z",
+  "updatedAt": "2026-11-15T19:03:57.349Z",
   "widgetFiles": [
-    "gross-domestic-product.json"
+    "gdp.json"
   ],
   "library": {
     "id": "376e0d29-5efa-424d-bfb0-6746c3dd2c9f",
