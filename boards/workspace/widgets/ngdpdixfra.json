@@ -80,6 +80,69 @@
             "dash": "solid"
           }
         ]
+      },
+      {
+        "seriesKey": "fred:NGDPDIXITA",
+        "instrument": {
+          "kind": "series",
+          "source": "fred",
+          "seriesId": "NGDPDIXITA",
+          "label": "Gross Domestic Product Deflator for Italy"
+        },
+        "label": "Gross Domestic Product Deflator for Italy",
+        "transforms": [
+          {
+            "id": "tx-mwonni9g-10",
+            "mode": "level",
+            "days": 1,
+            "lag": 0,
+            "axis": "left",
+            "color": "#b87a6a",
+            "dash": "solid"
+          }
+        ]
+      },
+      {
+        "seriesKey": "fred:NGDPXDCITA",
+        "instrument": {
+          "kind": "series",
+          "source": "fred",
+          "seriesId": "NGDPXDCITA",
+          "label": "Nominal Gross Domestic Product for Italy"
+        },
+        "label": "Nominal Gross Domestic Product for Italy",
+        "transforms": [
+          {
+            "id": "tx-mwonniaj-11",
+            "mode": "level",
+            "days": 1,
+            "lag": 0,
+            "axis": "left",
+            "color": "#e0c794",
+            "dash": "solid"
+          }
+        ]
+      },
+      {
+        "seriesKey": "fred:NGDPRXDCITA",
+        "instrument": {
+          "kind": "series",
+          "source": "fred",
+          "seriesId": "NGDPRXDCITA",
+          "label": "Real Gross Domestic Product for Italy"
+        },
+        "label": "Real Gross Domestic Product for Italy",
+        "transforms": [
+          {
+            "id": "tx-mwonnibj-12",
+            "mode": "level",
+            "days": 1,
+            "lag": 0,
+            "axis": "left",
+            "color": "#8f7348",
+            "dash": "solid"
+          }
+        ]
       }
     ]
   }

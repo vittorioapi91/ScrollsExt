@@ -7,16 +7,16 @@
   "layout": {
     "x": 2,
     "y": 1,
-    "w": 1,
-    "h": 1
+    "w": 2,
+    "h": 2
   },
   "object": {
     "kind": "chart",
     "schemaVersion": 1,
     "title": "GDP",
     "notes": "",
-    "startDate": "2021-11-20",
-    "endDate": "2026-11-20",
+    "startDate": "2017-03-23",
+    "endDate": "2026-07-01",
     "series": [
       {
         "seriesKey": "fred:GDP",

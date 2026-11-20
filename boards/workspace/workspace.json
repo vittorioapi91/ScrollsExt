@@ -9,8 +9,8 @@
   "instruments": [],
   "widgets": [],
   "links": [],
-  "updatedAt": "2026-11-20T07:25:06.681Z",
-  "headCommitId": "d66b3ce86609bb06b1aef105d338034b838088d8",
+  "updatedAt": "2026-11-20T07:26:01.087Z",
+  "headCommitId": "e48063e4c8b9fce7bba6845734dea3e9e5a289de",
   "workspaceGit": {
     "mode": "github_linked",
     "owner": "vittorioapi91",
@@ -23,6 +23,11 @@
   ],
   "library": {
     "id": "8288493f-1b0d-4f0f-92af-b22ed3981264",
-    "name": "workspace"
+    "name": "workspace",
+    "handle": "workspace",
+    "description": "It's a debug board.",
+    "iconId": "ghost-dizzy-sky",
+    "createdAt": "2026-11-20T07:26:02.920Z",
+    "updatedAt": "2026-11-20T07:26:02.920Z"
   }
 }
