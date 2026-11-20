@@ -9,8 +9,8 @@
   "instruments": [],
   "widgets": [],
   "links": [],
-  "updatedAt": "2026-11-20T07:26:01.087Z",
-  "headCommitId": "e48063e4c8b9fce7bba6845734dea3e9e5a289de",
+  "updatedAt": "2026-11-20T07:26:06.695Z",
+  "headCommitId": "cbf019e5dfe92be47bb811da1a790df47aa03fb3",
   "workspaceGit": {
     "mode": "github_linked",
     "owner": "vittorioapi91",
@@ -28,6 +28,6 @@
     "description": "It's a debug board.",
     "iconId": "ghost-dizzy-sky",
     "createdAt": "2026-11-20T07:26:02.920Z",
-    "updatedAt": "2026-11-20T07:26:02.920Z"
+    "updatedAt": "2026-11-20T07:26:08.075Z"
   }
 }
