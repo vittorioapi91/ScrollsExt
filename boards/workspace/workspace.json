@@ -2,14 +2,14 @@
   "schemaVersion": 2,
   "id": "2b906455-aab9-491e-88d3-f76cd9631990",
   "title": "Workspace",
-  "notes": "@{widget:7775533a-56c8-4879-92b3-9db59ec0e49a}",
+  "notes": "@{widget:7775533a-56c8-4879-92b3-9db59ec0e49a}\n@{widget:75cd3781-b3a6-4ede-b636-cbdbc0bdf8e2}",
   "revolved": false,
   "widgetsPerRow": 4,
-  "rows": 3,
+  "rows": 4,
   "instruments": [],
   "widgets": [],
   "links": [],
-  "updatedAt": "2026-11-20T04:26:26.326Z",
+  "updatedAt": "2026-11-20T05:46:51.527Z",
   "headCommitId": "9d2b4f8413d380c8223e33f37765139731232424",
   "workspaceGit": {
     "mode": "github_linked",
@@ -18,7 +18,8 @@
     "branch": "main"
   },
   "widgetFiles": [
-    "gdp.json"
+    "gdp.json",
+    "chart.json"
   ],
   "library": {
     "id": "2b906455-aab9-491e-88d3-f76cd9631990",
