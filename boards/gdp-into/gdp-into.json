@@ -15,6 +15,11 @@
   ],
   "library": {
     "id": "43a4bbdd-878b-4421-b38b-428b8a2043d5",
-    "name": "gdp-into"
+    "name": "gdp-into",
+    "handle": "gdp-into",
+    "description": "It's a debug board.",
+    "iconId": "ghost-wink-violet",
+    "createdAt": "2026-11-20T04:20:46.331Z",
+    "updatedAt": "2026-11-20T04:20:46.331Z"
   }
 }
