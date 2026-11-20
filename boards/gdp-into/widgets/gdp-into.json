@@ -1,0 +1,22 @@
+{
+  "id": "32a3ebaa-682c-4aa9-ba1d-3b8b19a83e25-chart-0",
+  "type": "chart",
+  "docked": false,
+  "chromePinned": false,
+  "presentation": "expanded",
+  "layout": {
+    "x": 0,
+    "y": 0,
+    "w": 2,
+    "h": 2
+  },
+  "object": {
+    "kind": "chart",
+    "schemaVersion": 1,
+    "title": "GDP into",
+    "notes": "",
+    "startDate": "2010-01-01",
+    "endDate": "2025-12-31",
+    "series": []
+  }
+}

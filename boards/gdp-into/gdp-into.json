@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 2,
+  "id": "32a3ebaa-682c-4aa9-ba1d-3b8b19a83e25",
+  "title": "GDP into",
+  "notes": "",
+  "revolved": false,
+  "widgetsPerRow": 4,
+  "rows": 3,
+  "instruments": [],
+  "widgets": [],
+  "links": [],
+  "updatedAt": "2026-11-20T04:06:37.776Z",
+  "widgetFiles": [
+    "gdp-into.json"
+  ],
+  "library": {
+    "id": "32a3ebaa-682c-4aa9-ba1d-3b8b19a83e25",
+    "name": "gdp-into"
+  }
+}
