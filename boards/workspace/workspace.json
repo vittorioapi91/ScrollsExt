@@ -2,16 +2,24 @@
   "schemaVersion": 2,
   "id": "8288493f-1b0d-4f0f-92af-b22ed3981264",
   "title": "Workspace",
-  "notes": "@{widget:9e186ff1-db11-43ad-8af5-79eecfab7af2}",
+  "notes": "@{widget:9e186ff1-db11-43ad-8af5-79eecfab7af2}\n@{widget:edaa034a-5002-4c82-9493-058c604b5f48}",
   "revolved": false,
   "widgetsPerRow": 4,
   "rows": 3,
   "instruments": [],
   "widgets": [],
   "links": [],
-  "updatedAt": "2026-11-20T07:24:15.659Z",
+  "updatedAt": "2026-11-20T07:25:06.681Z",
+  "headCommitId": "d66b3ce86609bb06b1aef105d338034b838088d8",
+  "workspaceGit": {
+    "mode": "github_linked",
+    "owner": "vittorioapi91",
+    "repo": "ScrollsExt",
+    "branch": "main"
+  },
   "widgetFiles": [
-    "ngdpdixfra.json"
+    "ngdpdixfra.json",
+    "gdp.json"
   ],
   "library": {
     "id": "8288493f-1b0d-4f0f-92af-b22ed3981264",

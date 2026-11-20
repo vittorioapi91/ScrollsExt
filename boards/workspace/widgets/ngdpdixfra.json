@@ -7,8 +7,8 @@
   "layout": {
     "x": 0,
     "y": 0,
-    "w": 1,
-    "h": 1
+    "w": 2,
+    "h": 2
   },
   "object": {
     "kind": "chart",
