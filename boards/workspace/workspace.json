@@ -1,33 +1,20 @@
 {
   "schemaVersion": 2,
-  "id": "2b906455-aab9-491e-88d3-f76cd9631990",
+  "id": "8288493f-1b0d-4f0f-92af-b22ed3981264",
   "title": "Workspace",
-  "notes": "@{widget:7775533a-56c8-4879-92b3-9db59ec0e49a}\n@{widget:75cd3781-b3a6-4ede-b636-cbdbc0bdf8e2}\n@{widget:3c1d7365-23cc-409b-9b8e-a53a32ea9f62}",
+  "notes": "@{widget:9e186ff1-db11-43ad-8af5-79eecfab7af2}",
   "revolved": false,
   "widgetsPerRow": 4,
-  "rows": 4,
+  "rows": 3,
   "instruments": [],
   "widgets": [],
   "links": [],
-  "updatedAt": "2026-11-20T07:10:07.526Z",
-  "headCommitId": "fbf14f8200c409b1d7dfd9a48bce9812942b47ef",
-  "workspaceGit": {
-    "mode": "github_linked",
-    "owner": "vittorioapi91",
-    "repo": "ScrollsExt",
-    "branch": "main"
-  },
+  "updatedAt": "2026-11-20T07:24:15.659Z",
   "widgetFiles": [
-    "gdp.json",
-    "chart.json"
+    "ngdpdixfra.json"
   ],
   "library": {
-    "id": "2b906455-aab9-491e-88d3-f76cd9631990",
-    "name": "workspace",
-    "handle": "workspace",
-    "description": "It's a debug board.",
-    "iconId": "ghost-grin-sky",
-    "createdAt": "2026-11-20T04:20:46.348Z",
-    "updatedAt": "2026-11-20T07:10:08.897Z"
+    "id": "8288493f-1b0d-4f0f-92af-b22ed3981264",
+    "name": "workspace"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "id": "7775533a-56c8-4879-92b3-9db59ec0e49a",
+  "id": "9e186ff1-db11-43ad-8af5-79eecfab7af2",
   "type": "chart",
   "docked": false,
   "chromePinned": false,
@@ -7,59 +7,17 @@
   "layout": {
     "x": 0,
     "y": 0,
-    "w": 2,
-    "h": 3
+    "w": 1,
+    "h": 1
   },
   "object": {
     "kind": "chart",
     "schemaVersion": 1,
-    "title": "GDP",
+    "title": "NGDPDIXFRA",
     "notes": "",
     "startDate": "2010-01-01",
-    "endDate": "2024-12-31",
+    "endDate": "2025-12-31",
     "series": [
-      {
-        "seriesKey": "fred:NAEXCP01EZA189S",
-        "instrument": {
-          "kind": "series",
-          "source": "fred",
-          "seriesId": "NAEXCP01EZA189S",
-          "label": "National Accounts: GDP by Expenditure: Current Prices: Gross Do…"
-        },
-        "label": "National Accounts: GDP by Expenditure: Current Prices: Gross Do…",
-        "transforms": [
-          {
-            "id": "tx-mwoh8fl4-2",
-            "mode": "level",
-            "days": 1,
-            "lag": 0,
-            "axis": "left",
-            "color": "#6b8cae",
-            "dash": "solid"
-          }
-        ]
-      },
-      {
-        "seriesKey": "fred:NAEXKP01EZA652S",
-        "instrument": {
-          "kind": "series",
-          "source": "fred",
-          "seriesId": "NAEXKP01EZA652S",
-          "label": "National Accounts: GDP by Expenditure: Constant Prices: Gross D…"
-        },
-        "label": "National Accounts: GDP by Expenditure: Constant Prices: Gross D…",
-        "transforms": [
-          {
-            "id": "tx-mwoh8flt-3",
-            "mode": "level",
-            "days": 1,
-            "lag": 0,
-            "axis": "left",
-            "color": "#7a9e8e",
-            "dash": "solid"
-          }
-        ]
-      },
       {
         "seriesKey": "fred:NGDPDIXFRA",
         "instrument": {
@@ -71,12 +29,12 @@
         "label": "Gross Domestic Product Deflator for France",
         "transforms": [
           {
-            "id": "tx-mwon2v69-1",
+            "id": "tx-mwonl8qs-1",
             "mode": "level",
             "days": 1,
             "lag": 0,
             "axis": "left",
-            "color": "#b87a6a",
+            "color": "#c4a574",
             "dash": "solid"
           }
         ]
@@ -92,12 +50,12 @@
         "label": "Nominal Gross Domestic Product for France",
         "transforms": [
           {
-            "id": "tx-mwon2v7n-2",
+            "id": "tx-mwonl8wo-2",
             "mode": "level",
             "days": 1,
             "lag": 0,
             "axis": "left",
-            "color": "#e0c794",
+            "color": "#6b8cae",
             "dash": "solid"
           }
         ]
@@ -113,12 +71,12 @@
         "label": "Real Gross Domestic Product for France",
         "transforms": [
           {
-            "id": "tx-mwon2v8k-3",
+            "id": "tx-mwonl8yz-3",
             "mode": "level",
             "days": 1,
             "lag": 0,
             "axis": "left",
-            "color": "#8f7348",
+            "color": "#7a9e8e",
             "dash": "solid"
           }
         ]
