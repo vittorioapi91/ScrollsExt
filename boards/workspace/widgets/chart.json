@@ -1,5 +1,5 @@
 {
-  "id": "75cd3781-b3a6-4ede-b636-cbdbc0bdf8e2",
+  "id": "3c1d7365-23cc-409b-9b8e-a53a32ea9f62",
   "type": "chart",
   "docked": false,
   "chromePinned": false,
@@ -7,8 +7,8 @@
   "layout": {
     "x": 2,
     "y": 0,
-    "w": 2,
-    "h": 2
+    "w": 1,
+    "h": 1
   },
   "object": {
     "kind": "chart",
