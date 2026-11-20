@@ -10,5 +10,14 @@
   "widgets": [],
   "links": [],
   "updatedAt": "2026-11-19T02:00:14.648Z",
-  "widgetFiles": []
+  "widgetFiles": [],
+  "library": {
+    "id": "622bd3ef-3b2e-464a-8489-facf6c9078a7",
+    "name": "untitled",
+    "handle": "untitled",
+    "description": "It's a debug board.",
+    "iconId": "ghost-grin-rose",
+    "createdAt": "2026-11-20T04:00:52.987Z",
+    "updatedAt": "2026-11-20T04:00:52.987Z"
+  }
 }

@@ -10,5 +10,14 @@
   "widgets": [],
   "links": [],
   "updatedAt": "2026-11-19T01:27:40.451Z",
-  "widgetFiles": []
+  "widgetFiles": [],
+  "library": {
+    "id": "4dfe4668-74cf-4979-b287-5dd7880d7c69",
+    "name": "prova",
+    "handle": "prova",
+    "description": "It's a debug board.",
+    "iconId": "ghost-smug-gold",
+    "createdAt": "2026-11-20T04:00:52.984Z",
+    "updatedAt": "2026-11-20T04:00:52.984Z"
+  }
 }
