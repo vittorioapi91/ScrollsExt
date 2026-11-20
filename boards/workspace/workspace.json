@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 2,
+  "id": "2b906455-aab9-491e-88d3-f76cd9631990",
+  "title": "Workspace",
+  "notes": "",
+  "revolved": false,
+  "widgetsPerRow": 4,
+  "rows": 3,
+  "instruments": [],
+  "widgets": [],
+  "links": [],
+  "updatedAt": "2026-11-20T04:15:24.240Z",
+  "widgetFiles": [
+    "chart.json"
+  ],
+  "library": {
+    "id": "2b906455-aab9-491e-88d3-f76cd9631990",
+    "name": "workspace"
+  }
+}
