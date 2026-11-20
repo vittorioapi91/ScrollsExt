@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 2,
+  "id": "376e0d29-5efa-424d-bfb0-6746c3dd2c9f",
+  "title": "gdp",
+  "notes": "",
+  "revolved": false,
+  "widgetsPerRow": 4,
+  "rows": 4,
+  "instruments": [],
+  "widgets": [],
+  "links": [],
+  "updatedAt": "2026-11-17T08:18:21.807Z",
+  "headCommitId": "67293a3d023d3459d21f483d5e0133de325c49bb",
+  "widgetFiles": [
+    "gross-domestic-product.json",
+    "gross-domestic-product-2.json",
+    "gross-domestic-product-2-693af9.json"
+  ]
+}
