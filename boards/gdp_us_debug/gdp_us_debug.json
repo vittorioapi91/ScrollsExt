@@ -9,13 +9,9 @@
   "instruments": [],
   "widgets": [],
   "links": [],
-  "updatedAt": "2026-11-21T13:34:57.232Z",
+  "updatedAt": "2026-11-21T13:41:53.774Z",
   "widgetFiles": [
-    "gdp.json",
-    "a.json",
-    "b.json",
-    "c.json",
-    "d.json"
+    "gdp.json"
   ],
   "library": {
     "id": "376e0d29-5efa-424d-bfb0-6746c3dd2c9f",
@@ -24,6 +20,6 @@
     "description": "It's a debug board.",
     "iconId": "ghost-dizzy-sky",
     "createdAt": "2026-11-20T02:29:53.820Z",
-    "updatedAt": "2026-11-21T13:34:57.260Z"
+    "updatedAt": "2026-11-21T13:41:57.157Z"
   }
 }
