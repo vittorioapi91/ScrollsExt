@@ -1,0 +1,23 @@
+{
+  "id": "pack-test-icon-c",
+  "type": "chart",
+  "docked": false,
+  "chromePinned": false,
+  "presentation": "icon",
+  "iconSlot": 0,
+  "layout": {
+    "x": 3,
+    "y": 0,
+    "w": 1,
+    "h": 1
+  },
+  "object": {
+    "kind": "chart",
+    "schemaVersion": 1,
+    "title": "C",
+    "notes": "",
+    "startDate": "2021-11-16",
+    "endDate": "2026-11-16",
+    "series": []
+  }
+}
